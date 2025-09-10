@@ -10,3 +10,4 @@ const root = createRoot(container);
 
 // Render the app
 root.render(<App />);
+
